@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minidu Kalhara</h1>
 <h3 align="center">Computer Science Student exploring Full-Stack Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minidukalhara14&label=Profile%20views&color=0e75b6&style=flat" alt="minidukalhara14" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=minidukalhara14&label=Profile%20views&color=0e75b6&style=flat" alt="minidukalhara14" /> </p>
 
 - 🌱 I’m currently learning **MERN Full-Stack**
 
